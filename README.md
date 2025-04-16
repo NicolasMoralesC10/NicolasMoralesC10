@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+https://flat.badgen.net/
+badge/:subject/:status/:color?icon=github
+
+![Badge de ejemplo](https://img.shields.io/badge/Ejemplo-Badge-brightgreen)
+
+
 <!--
 **NicolasMoralesC10/NicolasMoralesC10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
